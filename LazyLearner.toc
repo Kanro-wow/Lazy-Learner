@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title : LazyLearner
+## Notes: For the truely lazy learner, teaching you a language while you play wow.
+## Author: Kanro
+## Version: 0.1
+## SavedVariables: LazyLearner
+LazyLearner.lua
